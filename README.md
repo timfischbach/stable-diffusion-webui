@@ -13,7 +13,7 @@ Install the dependencies:
 
 Navigate to the directory you would like the webui to be installed and execute the following command:
 
-`bash <(wget -qO- https://raw.githubusercontent.com/timfischbach/stable-diffusion-webui/master/webui.sh)`
+`bash <(wget -qO- https://raw.githubusercontent.com/timfischbach/stable-diffusion-webui-root-installer/master/webui.sh)`
 
 Run webui.sh.
 Check webui-user.sh for options.
